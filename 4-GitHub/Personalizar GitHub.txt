@@ -1,0 +1,13 @@
+​Links
+
+🔗 Código do README para copiar ecolar no seu repositório:
+
+https://gist.githubusercontent.com/devemdobro/4c1b...​
+
+🔗 Código da cobrinha para copiar: https://github.com/devemdobro/devemdobro/blob/main/.github/workflows/cobrinha.yml
+
+🔗 Repositório do Readme Stats para trocar o tema e outras informações das caixas - https://github.com/anuraghazra/github-readme-stats
+
+🔗 Ícones das linguagens - https://devicon.dev/
+
+🔗 Botões das redes - https://shields.io/

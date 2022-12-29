@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'nome';
+    src: url(./fontes/MilkyNice.otf),
+    url(./fontes/MilkyNice.ttf);
+}
+
+h1{
+    font-family: 'nome', Helvetica, sans-serif;
+    font-weight: 100;
+}
